@@ -1,0 +1,28 @@
+const APPOINTMENTS = [
+    {
+        id: '1',
+        guild: {
+            id: '1',
+            name: 'Lendários',
+            icon: null,
+            owner: true
+        },
+        category: '1',
+        date: '18/06 às 21:00h',
+        description: 'É hoje que vamos chegar ao challenger sem perder uma partida da md10'
+    },
+    {
+        id: '2',
+        guild: {
+            id: '1',
+            name: 'Lendários',
+            icon: null,
+            owner: true
+        },
+        category: '1',
+        date: '18/06 às 21:00h',
+        description: 'É hoje que vamos chegar ao challenger sem perder uma partida da md10'
+    }
+];
+
+export default APPOINTMENTS;
